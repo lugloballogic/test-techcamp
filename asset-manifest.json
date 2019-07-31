@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/test-techcamp/static/css/main.2cce8147.chunk.css",
+    "main.js": "/test-techcamp/static/js/main.db5ff9ff.chunk.js",
+    "main.js.map": "/test-techcamp/static/js/main.db5ff9ff.chunk.js.map",
+    "runtime~main.js": "/test-techcamp/static/js/runtime~main.49a02c1a.js",
+    "runtime~main.js.map": "/test-techcamp/static/js/runtime~main.49a02c1a.js.map",
+    "static/js/2.41b474c4.chunk.js": "/test-techcamp/static/js/2.41b474c4.chunk.js",
+    "static/js/2.41b474c4.chunk.js.map": "/test-techcamp/static/js/2.41b474c4.chunk.js.map",
+    "index.html": "/test-techcamp/index.html",
+    "precache-manifest.48f5f1593765e5a21a99f54becacce91.js": "/test-techcamp/precache-manifest.48f5f1593765e5a21a99f54becacce91.js",
+    "service-worker.js": "/test-techcamp/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/test-techcamp/static/css/main.2cce8147.chunk.css.map"
+  }
+}
